@@ -25,18 +25,7 @@ profiles/octocat.json
 ## 格式範例
 
 ```json
-{
-  "$schema": "../schemas/profile.schema.json",
-  "github": "octocat",
-  "displayName": "小火龍",
-  "tagline": "想把點子做成可以互動的網頁",
-  "interests": ["AI", "前端", "開放資料"],
-  "faction": {
-    "os": "linux",
-    "browser": "firefox",
-    "editor": "vscode"
-  }
-}
+
 ```
 
 ## faction 代號
