@@ -7,6 +7,6 @@
   "faction": {
     "os": "linux",
     "browser": "chrome",
-    "editor": "Zed"
+    "editor": "zed"
   }
 }
