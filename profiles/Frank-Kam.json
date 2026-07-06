@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/profile.schema.json",
-  "github": "octocat",
+  "github": "Frank-Kam",
   "displayName": "Frank",
   "tagline": "Frank",
   "interests": ["Linux", "Backend", "Cyber-Sec"],
