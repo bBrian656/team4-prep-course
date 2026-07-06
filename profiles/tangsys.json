@@ -1,0 +1,16 @@
+{
+    "$schema": "https://github.com/candytangsys",
+    "github": "tangsys",
+    "displayName": "tang yu",
+    "tagline": "雖然開局總是「小白」，但我超強的求生欲會驅使我用最短時間跟上腳步，絕不讓自己落後太多。",
+    "interests": [
+        "JAVA",
+        "AI",
+        "AR"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "vscode"
+    }
+}
