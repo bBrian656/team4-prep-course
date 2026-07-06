@@ -1,7 +1,7 @@
 {
     "$schema": "../schemas/profile.schema.json",
-    "github": "tangsys",
-    "displayName": "tang yu",
+    "github": "candytangsys",
+    "displayName": "Tang Yu",
     "tagline": "哈哈哈",
     "interests": [
         "後端",
