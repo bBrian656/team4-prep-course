@@ -9,6 +9,6 @@
   "faction": {
     "os": "windows",
     "browser": "chrome",
-    "editor": "other"
+    "editor": "vscode"
   }
 }
