@@ -1,0 +1,14 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "bBrian656",
+  "displayName": "bBrian656",
+  "tagline": "你好",
+  "interests": [
+    "遊戲"
+  ],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "other"
+  }
+}
