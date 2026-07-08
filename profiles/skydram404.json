@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "skydram404",
+    "displayName": "君灝",
+    "tagline": "6767",
+    "interests": [
+        "ai",
+        "資安"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "visualstudio"
+    }
+}
